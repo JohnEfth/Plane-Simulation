@@ -3,7 +3,9 @@ Not just another Java project :D
 For compile and run I used terminal so if you want to use terminal here are the commands:
 
 -> Open terminal
+
 -> javac App/* Utilities/* (for compile)
+
 -> java App/App  (for run)
 
 A brief descrpition of what you see:
