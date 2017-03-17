@@ -1,4 +1,5 @@
-Not just another Java project :D
+# Plane-Simulation
+Simulation of plane's components and security checks before take off.
 
 For compile and run I used terminal so if you want to use terminal here are the commands:
 
